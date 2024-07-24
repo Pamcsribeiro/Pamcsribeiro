@@ -1,12 +1,12 @@
-# Bem-vindos ao Meu Repositório! 🌸
+# Bem-vindos ao Meu Repositório!
 
-![Bem-vindos](https://link-da-sua-imagem-de-boas-vindas.com)
+## 🌸 Sobre Mim 
 
-## Sobre Mim
-
-Olá! Eu sou [Seu Nome], uma entusiasta da tecnologia e apaixonada por desenvolvimento. Bem-vindos ao meu cantinho no GitHub!
-
-![Sobre Mim](https://link-da-sua-imagem-pessoal.com)
+Olá! Eu sou Pâmela Ribeiro, uma novata na tecnologia e apaixonada por desenvolvimento de jogos digitais e animação, principalmente Stop-motion. 
+Atualmente estudo Sistema de Informação na UniLaSalle. Sou curiosa, amo aprender coisas novas e estou sempre em busca de desafios e de novos conhecimentos para adquirir. 
+Toda minha vida é organizada com Notion. Então faço planejamentos, listas, traço metas e marco compromissos e eventos no calendário.
+Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para alcançá-los.
+XOXO, Pam!
 
 --> ## 🚀 Projetos <--
 
@@ -46,12 +46,11 @@ Atualmente estou aprendendo:
 
 Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@pamcsribeiro-purple?style=flat&logo=instagram)](https://www.instagram.com/pamcsribeiro)
-[![LinkedIn](https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%23B197FC&sc=%23B197FC)](https://www.linkedin.com/in/pamcsribeiro)
-[![Twitter](https://img.shields.io/badge/Twitter-@seu_usuario-lightblue?style=flat&logo=twitter)](https://twitter.com/seu-usuario/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pamcsribeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamcsribeiro)
 
-![Redes Sociais](https://link-da-sua-imagem-de-redes-sociais.com)
+![pandaplayer](https://github.com/user-attachments/assets/097d70a6-3396-47b2-9334-89599fb97a5e)
 
+Bem-vindos ao meu cantinho no GitHub!
 ---
-
 ✨ **Feito com ❤️ e dedicação.** ✨
