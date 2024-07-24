@@ -21,7 +21,6 @@ Atualmente estou aprendendo:
 - Linguagens de Marcação: HTML.
 - Linguagens de Estilo: CSS.
 - Linguagens de Programação: C (para desenvolver algoritmos) e C# (para o desenvolvimento de um jogo RPG em 2D na Unity Engine).
-- Ferramentas: Git, Docker, etc.
 
 ### Não Técnicos
 - Gerenciamento de tempo
