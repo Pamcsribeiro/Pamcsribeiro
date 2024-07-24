@@ -1,4 +1,4 @@
-# 🌸 Bem-vindos ao Meu Repositório! 🌸
+# Bem-vindos ao Meu Repositório! 🌸
 
 ![Bem-vindos](https://link-da-sua-imagem-de-boas-vindas.com)
 
@@ -46,7 +46,7 @@ Atualmente estou aprendendo:
 
 Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 
-[![Instagram](https://fontawesome.com/icons/square-instagram?f=brands&s=solid&pc=%23B197FC&sc=%23B197FC](https://www.instagram.com/pamcsribeiro)
+[![Instagram](https://img.shields.io/badge/Instagram-@pamcsribeiro-purple?style=flat&logo=instagram)](https://www.instagram.com/pamcsribeiro)
 [![LinkedIn](https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%23B197FC&sc=%23B197FC)](https://www.linkedin.com/in/pamcsribeiro)
 [![Twitter](https://img.shields.io/badge/Twitter-@seu_usuario-lightblue?style=flat&logo=twitter)](https://twitter.com/seu-usuario/)
 
