@@ -22,7 +22,6 @@ Aqui você pode conferir minhas experiências profissionais e acadêmicas.
 - **Unilasalle**: Cursando Sistemas de Informação
 - **Universidade Estácio de Sá**: Bacharelado em Arquitetura e Urbanismo
 - **SENAC**: Técnico em Design de Interiores
-- **Unilasalle**: Cursando Sistemas de Informação
 
 ## 🌟 Conhecimentos
 
@@ -41,21 +40,14 @@ Atualmente estou aprendendo:
 - Flexível à mudanças
 - Atualização de conhecimentos constantes
 
-## 📞 Contato
+## 📞 Contato e Redes Sociais
 
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- Instagram: [Seu Instagram](https://www.instagram.com/seu-usuario/)
-- Twitter: [Seu Twitter](https://twitter.com/seu-usuario)
-
-![Contato](https://link-da-sua-imagem-de-contato.com)
-
-## 📱 Redes Sociais
+- Email: pamcsribeiro22@gmail.com
 
 Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@seu_usuario-pink?style=flat&logo=instagram)](https://www.instagram.com/seu-usuario/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@seu_usuario-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
+[![Instagram](https://fontawesome.com/icons/square-instagram?f=brands&s=solid&pc=%23B197FC&sc=%23B197FC](https://www.instagram.com/pamcsribeiro)
+[![LinkedIn](https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%23B197FC&sc=%23B197FC)](https://www.linkedin.com/in/pamcsribeiro)
 [![Twitter](https://img.shields.io/badge/Twitter-@seu_usuario-lightblue?style=flat&logo=twitter)](https://twitter.com/seu-usuario/)
 
 ![Redes Sociais](https://link-da-sua-imagem-de-redes-sociais.com)
