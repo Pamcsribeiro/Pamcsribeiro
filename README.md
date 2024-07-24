@@ -30,11 +30,12 @@ Atualmente estou aprendendo:
 - Flexível à mudanças
 - Atualização de conhecimentos constantes
 
-## 📱 Contato e Redes Sociais
-
-- Email: pamcsribeiro22@gmail.com
-
+## 📱 Contatos e Redes Sociais
 Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
+<a href = "mailto:pamcsribeiro22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pamcsribeiro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamcsribeiro)
+<a href="https://www.instagram.com/pamcsribeiro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/pamcsribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" target="_blank"></a>
