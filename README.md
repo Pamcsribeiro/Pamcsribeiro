@@ -19,6 +19,7 @@ Aqui você pode conferir minhas experiências profissionais e acadêmicas.
 
 ## 📚 Histórico Acadêmico
 
+- **Unilasalle**: Cursando Sistemas de Informação
 - **Universidade Estácio de Sá**: Bacharelado em Arquitetura e Urbanismo
 - **SENAC**: Técnico em Design de Interiores
 - **Unilasalle**: Cursando Sistemas de Informação
@@ -26,17 +27,19 @@ Aqui você pode conferir minhas experiências profissionais e acadêmicas.
 ## 🌟 Conhecimentos
 
 ### Técnicos
-- Linguagens de Programação: Python, JavaScript, etc.
-- Ferramentas: Git, Docker, etc.
 Atualmente estou aprendendo: 
-    * Linguagem de Marcação: HTML;
-    * Linguagem de Estilo: CSS;
-    * Linguagem de Programação: C (para desenvolver algoritmos) e C# (para o desenvolvimento de um jogo RPG em 2D na Unity Engine)
-🤗 Estou procurando colaborar no desenvolvimento de jogos
+- Linguagens de Marcação: HTML.
+- Linguagens de Estilo: CSS.
+- Linguagens de Programação: C (para desenvolver algoritmos) e C# (para o desenvolvimento de um jogo RPG em 2D na Unity Engine).
+- Ferramentas: Git, Docker, etc.
 
 ### Não Técnicos
-- Gerenciamento de Projetos
+- Gerenciamento de tempo
+- Trabalho em Equipe
+- Responsável e Assíduo
 - Liderança de Equipes
+- Flexível à mudanças
+- Atualização de conhecimentos constantes
 
 ## 📞 Contato
 
