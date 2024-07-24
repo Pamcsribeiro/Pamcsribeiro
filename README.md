@@ -1,4 +1,4 @@
-# Bem-vindos ao Meu Repositório! 😜
+# Bem-vindos ao meu cantinho no GitHub!💜😜
 
 ## 🌻 Sobre Mim 
 
@@ -38,6 +38,3 @@ Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pamcsribeiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamcsribeiro)
-
----
-**Bem-vindos ao meu cantinho no GitHub!💜**
