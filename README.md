@@ -8,15 +8,6 @@ Toda minha vida é organizada com Notion. Então faço planejamentos, listas, tr
 Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para alcançá-los.
 XOXO, Pam!
 
---> ## 🚀 Projetos <--
-
-
-## 💼 Experiências
-
-Aqui você pode conferir minhas experiências profissionais e acadêmicas.
-
-![Experiências](https://link-da-sua-imagem-de-experiencias.com)
-
 ## 📚 Histórico Acadêmico
 
 - **Unilasalle**: Cursando Sistemas de Informação
@@ -49,8 +40,5 @@ Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pamcsribeiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamcsribeiro)
 
-![pandaplayer](https://github.com/user-attachments/assets/097d70a6-3396-47b2-9334-89599fb97a5e)
-
-Bem-vindos ao meu cantinho no GitHub!
 ---
-✨ **Feito com 💜 e dedicação.** ✨
+**Bem-vindos ao meu cantinho no GitHub!💜**
