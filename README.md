@@ -1,6 +1,6 @@
-# Bem-vindos ao Meu Repositório!
+# Bem-vindos ao Meu Repositório! 😜
 
-## 🌸 Sobre Mim 
+## 🌻 Sobre Mim 
 
 Olá! Eu sou Pâmela Ribeiro, uma novata na tecnologia e apaixonada por desenvolvimento de jogos digitais e animação, principalmente Stop-motion. 
 Atualmente estudo Sistema de Informação na UniLaSalle. Sou curiosa, amo aprender coisas novas e estou sempre em busca de desafios e de novos conhecimentos para adquirir. 
@@ -23,7 +23,7 @@ Aqui você pode conferir minhas experiências profissionais e acadêmicas.
 - **Universidade Estácio de Sá**: Bacharelado em Arquitetura e Urbanismo
 - **SENAC**: Técnico em Design de Interiores
 
-## 🌟 Conhecimentos
+## 🤓 Conhecimentos
 
 ### Técnicos
 Atualmente estou aprendendo: 
@@ -40,7 +40,7 @@ Atualmente estou aprendendo:
 - Flexível à mudanças
 - Atualização de conhecimentos constantes
 
-## 📞 Contato e Redes Sociais
+## 📱 Contato e Redes Sociais
 
 - Email: pamcsribeiro22@gmail.com
 
@@ -53,4 +53,4 @@ Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
 
 Bem-vindos ao meu cantinho no GitHub!
 ---
-✨ **Feito com ❤️ e dedicação.** ✨
+✨ **Feito com 💜 e dedicação.** ✨
