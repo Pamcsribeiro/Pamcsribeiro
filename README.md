@@ -3,11 +3,8 @@
 ## 🌻 Sobre Mim 
 
 Olá! Eu sou Pâmela Ribeiro, uma novata na tecnologia e apaixonada por desenvolvimento de jogos digitais e animação, principalmente Stop-motion. 
-
 Atualmente estudo Sistema de Informação na UniLaSalle. Sou curiosa, amo aprender coisas novas e estou sempre em busca de desafios e de novos conhecimentos para adquirir. 
-
 Toda minha vida é organizada com Notion. Então faço planejamentos, listas, traço metas e marco compromissos e eventos no calendário.
-
 Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para alcançá-los.
 
 XOXO, Pam!
