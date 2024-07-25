@@ -1,4 +1,4 @@
-# Bem-vindos ao meu cantinho no GitHub!💜😜
+# Bem-vindos ao meu cantinho no GitHub!😜
 
 ## 🌻 Sobre Mim 
 
@@ -7,7 +7,7 @@ Atualmente estudo Sistema de Informação na UniLaSalle. Sou curiosa, amo aprend
 Toda minha vida é organizada com Notion. Então faço planejamentos, listas, traço metas e marco compromissos e eventos no calendário.
 Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para alcançá-los.
 
-XOXO, Pam!
+XOXO, Pam!💜
 
 ## 📚 Histórico Acadêmico
 
