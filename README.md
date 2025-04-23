@@ -1,7 +1,6 @@
 # Bem-vindos ao meu cantinho no GitHub!😜
 
 ## 🌻 Sobre Mim 
-
 Olá! Eu sou Pâmela Ribeiro, uma novata na tecnologia e apaixonada por desenvolvimento de jogos digitais e animação, principalmente Stop-motion. 
 Atualmente estudo Sistema de Informação na UniLaSalle. Sou curiosa, amo aprender coisas novas e estou sempre em busca de desafios e de novos conhecimentos para adquirir. 
 Toda minha vida é organizada com Notion. Então faço planejamentos, listas, traço metas e marco compromissos e eventos no calendário.
@@ -10,26 +9,34 @@ Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para al
 XOXO, Pam!💜
 
 ## 📚 Histórico Acadêmico
+- **Unilasalle:** Cursando Sistemas de Informação
+- **Universidade Estácio de Sá:** Bacharelado em Arquitetura e Urbanismo
+- **SENAC:** Técnico em Design de Interiores
 
-- **Unilasalle**: Cursando Sistemas de Informação
-- **Universidade Estácio de Sá**: Bacharelado em Arquitetura e Urbanismo
-- **SENAC**: Técnico em Design de Interiores
+## 💻 Hard Skills
+- **Programação e Desenvolvimento:** JavaScript, Java, C, C++, Lógica de Programação, Estruturas de Controle
+- **Bancos de Dados:** SQL, PostgreSQL
+- **Desenvolvimento Front-end:** HTML, CSS, Bootstrap, Design Responsivo
+- **Desenvolvimento de Jogos:** Unity Engine, C#, Visual Studio
+- **Produtividade e Colaboração:** Trello, Notion, Google Workspace, Microsoft Office
+- **Design e Modelagem 3D:** Blender, SketchUp, AutoCAD 2D, Lumion
+- **Design Gráfico:** Adobe Photoshop, Illustrator, Canva
+- **Design de UI/UX:** Figma, Design UI/UX, Design Thinking, Teste de Usabilidade.
 
-## 🤓 Conhecimentos
-
-### Técnicos
-Atualmente estou aprendendo: 
-- Linguagens de Marcação: HTML.
-- Linguagens de Estilo: CSS.
-- Linguagens de Programação: C (para desenvolver algoritmos) e C# (para o desenvolvimento de um jogo RPG em 2D na Unity Engine).
-
-### Não Técnicos
-- Gerenciamento de tempo
-- Trabalho em Equipe
-- Responsável e Assíduo
-- Liderança de Equipes
-- Flexível à mudanças
-- Atualização de conhecimentos constantes
+## 😁 Soft Skills
+- Trabalho em equipe
+- Pensamento crítico
+- Comunicação
+- Liderança e Gestão de equipe
+- Criatividade
+- Flexibilidade
+- Resolução de problemas
+- Disciplina
+- Produtividade
+- Organização e Planejamento
+- Iniciativa
+- Aprendizado contínuo
+- Atenção aos detalhes
 
 ## 📱 Contatos e Redes Sociais
 Siga-me nas redes sociais para acompanhar mais sobre meu trabalho e interesses:
